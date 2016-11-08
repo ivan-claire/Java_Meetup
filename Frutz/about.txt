@@ -1,0 +1,4 @@
+
+******************** JAVA PL MEETUP ****************
+
+All mentees have to commit the different tasks into this folder
